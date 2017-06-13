@@ -1,0 +1,19 @@
+{
+  "name": "ip_protocol_numbers",
+  "version": "0.0.1",
+  "description": "ip port number converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flyyang/ip_protocol_numbers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flyyang/ip_protocol_numbers/issues"
+  },
+  "homepage": "https://github.com/flyyang/ip_protocol_numbers#readme"
+}
